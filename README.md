@@ -20,3 +20,7 @@ This repository documents my structured, long-term execution plan to become a cy
 ## ✨ Vision
 
 To build a strategic mindset grounded in real-world OT/ICS security needs—capable of designing secure systems, writing policy, managing risk, and communicating across disciplines. This is not just a study log, but the architecture of a life defined by logic, intent, and discipline.
+
+## 💪 Daily Training Discipline
+
+Insta:
