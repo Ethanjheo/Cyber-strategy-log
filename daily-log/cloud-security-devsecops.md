@@ -1,4 +1,4 @@
-#  Cloud Security & DevSecOps – Study Summary  
+# GRC Week 1, Day 3 – Cloud Security & DevSecOps
 **Book**: *Cybersecurity Essentials* by Charles J. Brooks  
 **Date**: 2025-07-24  
 **Week 1 – Day 3** (GRC 7-Day Study Plan)
