@@ -1,4 +1,4 @@
-# Cybersecurity Frameworks – Day 4 Summary
+# GRC Week 1, Day 4 - Cybersecurity Frameworks
 
 **Book:** Cybersecurity Essentials  
 **Author:** Charles J. Brooks  
