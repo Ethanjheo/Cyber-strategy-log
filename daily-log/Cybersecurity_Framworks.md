@@ -2,7 +2,7 @@
 
 **Book:** Cybersecurity Essentials  
 **Author:** Charles J. Brooks  
-**Date:** 2025-07-24  
+**Date:** 25-07-2025  
 
 ---
 
