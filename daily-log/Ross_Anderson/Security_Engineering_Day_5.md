@@ -4,7 +4,7 @@
 - **Title:** Security Engineering  
 - **Author:** Ross Anderson  
 - **Publisher:** Wiley  
-- **Date Studied:** 2025-09-23  
+- **Date Studied:** 2025-09-24  
 
 ---
 
