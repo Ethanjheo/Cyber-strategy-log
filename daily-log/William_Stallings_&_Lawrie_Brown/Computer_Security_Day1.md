@@ -32,14 +32,4 @@
 
 ---
 
-## 4) Study Activity
-1. Find a recent cybersecurity news article and classify it under **Confidentiality / Integrity / Availability**.  
-2. Write short notes distinguishing **Threat, Vulnerability, and Attack** with one example each.  
-3. Save today’s notes into your GitHub repository as `Day1_Security_Foundations.md`.  
-
----
-
 ## 5) Reflection Question
-- “Among the services I use daily (banking app, email, social media), which element is the weakest, and which part of the CIA Triad does it fall under?”  
-
----
